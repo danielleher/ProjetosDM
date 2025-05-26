@@ -1,4 +1,3 @@
-import 'package:dashed_circular_progress_bar/dashed_circular_progress_bar.dart';
 import 'package:flutter/material.dart';
 
 void main() {
