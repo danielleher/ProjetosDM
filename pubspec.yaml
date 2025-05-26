@@ -29,6 +29,7 @@ environment:
 # versions available, run `flutter pub outdated`.
 dependencies:
   flutter:
+    dashed_circular_progress_bar: ^0.0.6
     sdk: flutter
 
   # The following adds the Cupertino Icons font to your application.
